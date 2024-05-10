@@ -1,0 +1,35 @@
+* {
+    font-family: 'Dancing Script', cursive;
+}
+
+body {
+background: rgb(121, 159, 235);
+}
+
+button {
+    background: rgb(62, 158, 17);
+    padding: 10px;
+    border: 20;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 30px
+    
+
+}
+
+button {
+    border-radius: 15px;
+}
+button:hover{
+
+    background-color: rgb(7, 99, 63);
+}
+
+iframe {
+
+    top: 50%;
+    left: 50%;
+
+
+
+}
